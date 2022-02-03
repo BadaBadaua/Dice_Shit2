@@ -1,0 +1,60 @@
+body {
+  background-color: #f7ecde;
+  text-align: center;
+  margin: 0;
+  /* width: 100%; */
+}
+hr {
+  width: 4%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: maroon;
+  border-width: 5px;
+  margin: 110px auto;
+}
+
+.top-container {
+  text-decoration: solid;
+  color: #d67d3e;
+  font-family: "Syne Tactile", cursive;
+  font-size: 80px;
+  padding-top: 5rem;
+}
+
+.middle-container {
+  color: #dd4a48;
+  font-family: "Shadows Into Light", cursive;
+}
+.p1 {
+  width: 49%;
+  display: inline-block;
+  font-size: 275%;
+}
+.p2 {
+  width: 49%;
+  display: inline-block;
+  font-size: 275%;
+}
+.p1-dice {
+  width: 55%;
+}
+.p2-dice {
+  width: 55%;
+}
+.bottom-container {
+  background-color: #54bab9;
+  margin-bottom: 0;
+  padding: 0 20px;
+  color: black;
+}
+.footer-link {
+  padding: 15px;
+  width: 2.875%;
+  height: 2.875%;
+}
+.end {
+  padding: 15px;
+  text-align: end;
+  margin: 0;
+  font-size: 30px;
+}
